@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="980" height="660" preserveAspectRatio="xMinYMin meet" viewBox="0 0 980 660" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="980" height="660"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-660)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="980" height="660" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="40" y="617" style="font-family: Helvetica-Bold; font-size: 24px;fill: rgb(7%,17%,22%); stroke:none;" transform="translate(0,1234) scale(1,-1)">What students want from dormitory allocation</text>
+			<text x="40" y="589" style="font-family: Helvetica; font-size: 13px;fill: rgb(31%,39%,44%); stroke:none;" transform="translate(0,1178) scale(1,-1)">Exploratory survey | N = 58 | Multiple selections allowed</text>
+			<text x="40" y="537" style="font-family: Helvetica-Bold; font-size: 17px;fill: rgb(7%,17%,22%); stroke:none;" transform="translate(0,1074) scale(1,-1)">Allocation needs (Q39, selected items)</text>
+			<g transform="">
+				<path d="M 277,400 L 277,505 Z" style="stroke: rgb(90%,92%,93%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 410.75,400 L 410.75,505 Z" style="stroke: rgb(90%,92%,93%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 544.5,400 L 544.5,505 Z" style="stroke: rgb(90%,92%,93%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 678.25,400 L 678.25,505 Z" style="stroke: rgb(90%,92%,93%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 812,400 L 812,505 Z" style="stroke: rgb(90%,92%,93%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<g transform="">
+					<rect x="277.0" y="411.008064516129" width="322.605" height="30.48387096774195" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,49%,54%); fill-rule: evenodd;"/>
+					<rect x="277.0" y="463.508064516129" width="396.43499999999995" height="30.48387096774195" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,49%,54%); fill-rule: evenodd;"/>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,606.605,426.25)">
+							<text x="0.0" y="-4.800000000000001" style="font-family: Helvetica; font-size: 12px;fill: rgb(7%,17%,22%); stroke:none;" transform="translate(0,-9) scale(1,-1)">60.3% (35/58)</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,680.435,478.75)">
+							<text x="0.0" y="-4.800000000000001" style="font-family: Helvetica; font-size: 12px;fill: rgb(7%,17%,22%); stroke:none;" transform="translate(0,-9) scale(1,-1)">74.1% (43/58)</text>
+						</g>
+					</g>
+				</g>
+				<g transform="">
+					<g transform=""/>
+					<g transform=""/>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,267,426.25)">
+							<text x="-140.894" y="-5.2" style="font-family: Helvetica; font-size: 13px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-10) scale(1,-1)">Quiet study environment</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,267,478.75)">
+							<text x="-107.653" y="-5.2" style="font-family: Helvetica; font-size: 13px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-10) scale(1,-1)">Regular schedules</text>
+						</g>
+					</g>
+				</g>
+				<g transform="">
+					<g transform="">
+						<path d="M 277,400 L 812,400 Z" style="stroke: rgb(79%,83%,85%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<path d="M 277,400 L 277,395 Z" style="stroke: rgb(79%,83%,85%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 410.75,400 L 410.75,395 Z" style="stroke: rgb(79%,83%,85%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 544.5,400 L 544.5,395 Z" style="stroke: rgb(79%,83%,85%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 678.25,400 L 678.25,395 Z" style="stroke: rgb(79%,83%,85%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 812,400 L 812,395 Z" style="stroke: rgb(79%,83%,85%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,277,395)">
+							<text x="-2.5" y="-10.0" style="font-family: Times-Roman; font-size: 10px;fill: rgb(31%,39%,44%); stroke:none;" transform="translate(0,-20) scale(1,-1)">0</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,410.75,395)">
+							<text x="-5.0" y="-10.0" style="font-family: Times-Roman; font-size: 10px;fill: rgb(31%,39%,44%); stroke:none;" transform="translate(0,-20) scale(1,-1)">25</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,544.5,395)">
+							<text x="-5.0" y="-10.0" style="font-family: Times-Roman; font-size: 10px;fill: rgb(31%,39%,44%); stroke:none;" transform="translate(0,-20) scale(1,-1)">50</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,678.25,395)">
+							<text x="-5.0" y="-10.0" style="font-family: Times-Roman; font-size: 10px;fill: rgb(31%,39%,44%); stroke:none;" transform="translate(0,-20) scale(1,-1)">75</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,812,395)">
+							<text x="-7.5" y="-10.0" style="font-family: Times-Roman; font-size: 10px;fill: rgb(31%,39%,44%); stroke:none;" transform="translate(0,-20) scale(1,-1)">100</text>
+						</g>
+					</g>
+				</g>
+			</g>
+			<text x="40" y="340" style="font-family: Helvetica-Bold; font-size: 17px;fill: rgb(7%,17%,22%); stroke:none;" transform="translate(0,680) scale(1,-1)">Requested school improvements (Q46)</text>
+			<g transform="">
+				<path d="M 277,108 L 277,308 Z" style="stroke: rgb(90%,92%,93%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 410.75,108 L 410.75,308 Z" style="stroke: rgb(90%,92%,93%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 544.5,108 L 544.5,308 Z" style="stroke: rgb(90%,92%,93%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 678.25,108 L 678.25,308 Z" style="stroke: rgb(90%,92%,93%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 812,108 L 812,308 Z" style="stroke: rgb(90%,92%,93%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<g transform="">
+					<rect x="277.0" y="116.38709677419355" width="73.82999999999998" height="23.22580645161291" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(25%,39%,54%); fill-rule: evenodd;"/>
+					<rect x="277.0" y="156.38709677419354" width="110.745" height="23.225806451612897" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(25%,39%,54%); fill-rule: evenodd;"/>
+					<rect x="277.0" y="196.38709677419354" width="165.85000000000002" height="23.225806451612897" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(25%,39%,54%); fill-rule: evenodd;"/>
+					<rect x="277.0" y="236.38709677419354" width="230.58499999999998" height="23.225806451612925" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(25%,39%,54%); fill-rule: evenodd;"/>
+					<rect x="277.0" y="276.38709677419354" width="332.235" height="23.225806451612925" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(25%,39%,54%); fill-rule: evenodd;"/>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,357.83,128)">
+							<text x="0.0" y="-4.800000000000001" style="font-family: Helvetica; font-size: 12px;fill: rgb(7%,17%,22%); stroke:none;" transform="translate(0,-9) scale(1,-1)">13.8% (8/58)</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,394.745,168)">
+							<text x="0.0" y="-4.800000000000001" style="font-family: Helvetica; font-size: 12px;fill: rgb(7%,17%,22%); stroke:none;" transform="translate(0,-9) scale(1,-1)">20.7% (12/58)</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,449.85,208)">
+							<text x="0.0" y="-4.800000000000001" style="font-family: Helvetica; font-size: 12px;fill: rgb(7%,17%,22%); stroke:none;" transform="translate(0,-9) scale(1,-1)">31.0% (18/58)</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,514.585,248)">
+							<text x="0.0" y="-4.800000000000001" style="font-family: Helvetica; font-size: 12px;fill: rgb(7%,17%,22%); stroke:none;" transform="translate(0,-9) scale(1,-1)">43.1% (25/58)</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,616.235,288)">
+							<text x="0.0" y="-4.800000000000001" style="font-family: Helvetica; font-size: 12px;fill: rgb(7%,17%,22%); stroke:none;" transform="translate(0,-9) scale(1,-1)">62.1% (36/58)</text>
+						</g>
+					</g>
+				</g>
+				<g transform="">
+					<g transform=""/>
+					<g transform=""/>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,267,128)">
+							<text x="-119.18400000000001" y="-5.2" style="font-family: Helvetica; font-size: 13px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-10) scale(1,-1)">Community activities</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,267,168)">
+							<text x="-130.793" y="-5.2" style="font-family: Helvetica; font-size: 13px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-10) scale(1,-1)">Support and mediation</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,267,208)">
+							<text x="-115.583" y="-5.2" style="font-family: Helvetica; font-size: 13px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-10) scale(1,-1)">Residential services</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,267,248)">
+							<text x="-122.82400000000001" y="-5.2" style="font-family: Helvetica; font-size: 13px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-10) scale(1,-1)">Management policies</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,267,288)">
+							<text x="-50.557" y="-5.2" style="font-family: Helvetica; font-size: 13px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-10) scale(1,-1)">Facilities</text>
+						</g>
+					</g>
+				</g>
+				<g transform="">
+					<g transform="">
+						<path d="M 277,108 L 812,108 Z" style="stroke: rgb(79%,83%,85%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<path d="M 277,108 L 277,103 Z" style="stroke: rgb(79%,83%,85%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 410.75,108 L 410.75,103 Z" style="stroke: rgb(79%,83%,85%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 544.5,108 L 544.5,103 Z" style="stroke: rgb(79%,83%,85%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 678.25,108 L 678.25,103 Z" style="stroke: rgb(79%,83%,85%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 812,108 L 812,103 Z" style="stroke: rgb(79%,83%,85%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,277,103)">
+							<text x="-2.5" y="-10.0" style="font-family: Times-Roman; font-size: 10px;fill: rgb(31%,39%,44%); stroke:none;" transform="translate(0,-20) scale(1,-1)">0</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,410.75,103)">
+							<text x="-5.0" y="-10.0" style="font-family: Times-Roman; font-size: 10px;fill: rgb(31%,39%,44%); stroke:none;" transform="translate(0,-20) scale(1,-1)">25</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,544.5,103)">
+							<text x="-5.0" y="-10.0" style="font-family: Times-Roman; font-size: 10px;fill: rgb(31%,39%,44%); stroke:none;" transform="translate(0,-20) scale(1,-1)">50</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,678.25,103)">
+							<text x="-5.0" y="-10.0" style="font-family: Times-Roman; font-size: 10px;fill: rgb(31%,39%,44%); stroke:none;" transform="translate(0,-20) scale(1,-1)">75</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,812,103)">
+							<text x="-7.5" y="-10.0" style="font-family: Times-Roman; font-size: 10px;fill: rgb(31%,39%,44%); stroke:none;" transform="translate(0,-20) scale(1,-1)">100</text>
+						</g>
+					</g>
+				</g>
+			</g>
+			<text x="277" y="70" style="font-family: Helvetica; font-size: 12px;fill: rgb(31%,39%,44%); stroke:none;" transform="translate(0,140) scale(1,-1)">Respondents selecting each option (%)</text>
+			<text x="40" y="33" style="font-family: Helvetica; font-size: 11px;fill: rgb(31%,39%,44%); stroke:none;" transform="translate(0,66) scale(1,-1)">Source: verified original survey export. Descriptive results; no population or causal inference.</text>
+		</g>
+	</g>
+</svg>
