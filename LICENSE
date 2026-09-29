@@ -1,0 +1,20 @@
+研究材料与使用范围说明 / Research materials and use notice
+
+本仓库用于展示研究问题、方法、汇总发现及方案设计。
+公开访问不表示授予第三方复制、改编、再分发或商业使用研究文本、图表及数据的广泛许可。
+除适用法律另有允许的情形外，其他使用应向相应权利人取得授权。
+研究材料的权利与成员贡献尚需分别确认，不将全部历史成果认定为某一人的独立作品。
+
+本仓库不提供参与者原始数据，也不为其授予任何使用许可。
+当前公开版不包含原始项目代码，因此未对其指定 MIT、Apache 等代码许可证。
+后续若发布代码，应明确代码范围、作者与第三方依赖许可；代码许可不自动适用于研究文本或数据。
+
+This repository presents research questions, methods, aggregate findings and a proposed process.
+Public access does not grant a general license to reproduce, adapt, redistribute or commercially
+use the research text, figures or data. Except where applicable law permits otherwise,
+additional uses require permission from the relevant rights holders.
+Authorship and rights in the historical materials must be confirmed separately.
+
+No participant-level data or license to such data is provided. Original project code is not
+included in this public edition. Any future code license must define its scope and account
+for third-party dependencies; it will not automatically cover research text or data.

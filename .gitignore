@@ -1,0 +1,25 @@
+# Credentials are excluded even in the private repository.
+.env
+.env.*
+*.key
+*.pem
+credentials*
+token*
+secret*
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+~$*
+# Public repository contains only reviewed summaries and rebuilt figures.
+*.xlsx
+*.xls
+*.docx
+*.pdf
+*.ppt
+*.pptx
+*.zip
+*.bundle
+data/raw/
+source-extracted/
+inspection/
